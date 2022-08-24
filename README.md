@@ -7,6 +7,3 @@ This repository is built step by step in the tutorial.
 123test
 
 321test
-
-
-135615315313513513
